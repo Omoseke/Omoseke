@@ -11,7 +11,7 @@ I'm a Technical Support Engineer and a Technical Writer. I'm passionate about sh
 - 💡 Fun fact: I'm currently studying Backend Engineering at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2024.
 - 🌱 I’m currently learning JavaScript, Reactjs, and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Software Engineer, Backend Engineer (Intern or Junior level).
+- 💼 Job interests: Software Engineer, Backend Engineer.
 - 📫 You can [view my resume](https://docs.google.com/document/d/10ahU1muoMpOOALPZQ5EzkE6w0cBld_4b/edit?usp=sharing&ouid=114710920432668813618&rtpof=true&sd=true) and contact me by emailing olaseke20@gmail.com.
 
 ---
